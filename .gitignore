@@ -132,7 +132,6 @@ reco_*.yaml
 *.npz
 *.data
 *.dat
-*.csv
 *.zip
 *.7z
 .vscode/
